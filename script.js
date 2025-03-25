@@ -3,17 +3,17 @@ const missionsData = [
     {
       title: "Artemis Program",
       description: "NASA's mission to return humans to the Moon by 2025.",
-      image: "moon.avif"
+      image: "./assets/moon.avif"
     },
     {
       title: "Mars 2020",
       description: "Exploring the Red Planet with the Perseverance rover.",
-      image: "mars.avif"
+      image: "./assets/mars.avif"
     },
     {
       title: "James Webb Telescope",
       description: "Unveiling the secrets of the universe with the most advanced space telescope.",
-      image: "cutie.avif"
+      image: "./assets/cutie.avif"
     }
   ];
   
@@ -22,17 +22,17 @@ const missionsData = [
     {
       title: "NASA's New Mission to Mars",
       description: "Learn about the latest mission to explore the Red Planet.",
-      image: "mars.avif"
+      image: "./assets/mars.avif"
     },
     {
       title: "Hubble Telescope's New Discovery",
       description: "Hubble captures stunning images of distant galaxies.",
-      image: "galaxy.avif"
+      image: "./assets/galaxy.avif"
     },
     {
       title: "Artemis Program Update",
       description: "NASA prepares for the next moon landing mission.",
-      image: "moon.avif"
+      image: "./assets/moon.avif"
     }
   ];
   
@@ -40,15 +40,15 @@ const missionsData = [
   const galleryData = [
     {
       title: "Earth from Space",
-      image: "earth.avif"
+      image: "./assets/earth.avif"
     },
     {
       title: "Milky Way Galaxy",
-      image: "milkyway.avif"
+      image: "./assets/milkyway.avif"
     },
     {
       title: "Solar Eclipse",
-      image: "eclipse.avif"
+      image: "./assets/eclipse.avif"
     }
   ];
   
